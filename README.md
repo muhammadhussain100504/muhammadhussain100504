@@ -33,6 +33,13 @@ Predicted daily rainfall using historical weather data and machine learning mode
 
 ---
 
+### **🚢 Titanic Survival Prediction**
+Predicted passenger survival on the Titanic using structured machine learning pipelines.  
+- Data preprocessing, feature engineering & handling missing values  
+- Random Forest & Logistic Regression classifiers with performance evaluation
+
+---
+
 ### **💼 Insurance Cost Analysis**
 Analyzed medical insurance data to predict annual charges using regression models.  
 - Data cleaning & exploratory data analysis (EDA)  
