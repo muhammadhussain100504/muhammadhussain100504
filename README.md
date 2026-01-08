@@ -25,6 +25,14 @@
 
 ## 📌 Featured Projects
 
+### **💼 Insurance Cost Analysis**
+Analyzed medical insurance data to predict annual charges using regression models.  
+- Data cleaning & exploratory data analysis (EDA)  
+- Linear & Ridge Regression with polynomial features  
+- Insights on factors affecting insurance costs (age, BMI, smoker status)
+
+---
+
 ### **📊 Stock Market Analysis (Tesla & GameStop)**
 End-to-end data analysis project using Python to analyze and visualize Tesla and GameStop stock prices and revenue trends.
 - Data extraction using APIs and datasets  
@@ -49,12 +57,6 @@ Exploratory data visualization project analyzing immigration trends to Canada (1
 - Visual storytelling using Matplotlib  
 
 ---
-
-### **📊 Excel Dashboards & Business Analysis**
-Interactive Excel dashboards created for business and operational analysis.
-- Pivot Tables & Pivot Charts  
-- Slicers for dynamic filtering  
-- Hotel bookings and retail performance analysis  
 
 👉 Check my pinned repositories below ⬇️
 
