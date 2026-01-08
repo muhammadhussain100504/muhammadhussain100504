@@ -25,6 +25,14 @@
 
 ## 📌 Featured Projects
 
+### **🌦 Rainfall Prediction in Melbourne**
+Predicted daily rainfall using historical weather data and machine learning models.  
+- Feature engineering & seasonality extraction  
+- Random Forest & Logistic Regression classifiers  
+- Model evaluation with accuracy, confusion matrix & feature importance
+
+---
+
 ### **💼 Insurance Cost Analysis**
 Analyzed medical insurance data to predict annual charges using regression models.  
 - Data cleaning & exploratory data analysis (EDA)  
@@ -47,14 +55,6 @@ Data engineering focused project demonstrating data collection, transformation, 
 - Revenue data from structured datasets  
 - Cleaned and processed data pipelines  
 - Visual analytics for insights  
-
----
-
-### **🌍 Canada Immigration Data Visualization**
-Exploratory data visualization project analyzing immigration trends to Canada (1980–2013).
-- Data manipulation using Pandas  
-- Trend analysis across countries and years  
-- Visual storytelling using Matplotlib  
 
 ---
 
